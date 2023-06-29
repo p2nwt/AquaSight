@@ -1,0 +1,13 @@
+Water Control Zone,Station,Dates,Sample No,Dissolved Oxygen mg_L,5-day Biochemical Oxygen Demand mg_L,E. coli cfu_100mL,Faecal Coliforms cfu_100mL,Ammonia Nitrogen mg_L
+Lower Lang Suan River,LS01,15/2/2022,1,6.6,1.1,"1,100",700,0.06
+Lower Lang Suan River,LS02,15/2/2022,1,7.6,0.1,"5,400",460,0.06
+Upper Lang Suan River,LS03,15/2/2022,1,8.1,1,"1,700",1100,0.06
+Upper Lang Suan River,LS04,15/2/2022,1,8.2,0.9,"1,100",140,0.06
+Lower Lang Suan River,LS01,15/5/2022,1,7.1,0.7,"3,500",1300,0.06
+Lower Lang Suan River,LS02,15/5/2022,1,7.4,1.2,"7,000",3500,0.06
+Upper Lang Suan River,LS03,15/5/2022,1,6.9,1.1,"2,400",330,0.06
+Upper Lang Suan River,LS04,15/5/2022,1,7.5,0.5,"5,400",700,0.06
+Lower Lang Suan River,LS01,15/8/2022,1,6,1.2,"2,200",1700,0.06
+Lower Lang Suan River,LS02,15/8/2022,1,7.5,1,"35,000",3500,0.06
+Upper Lang Suan River,LS03,15/8/2022,1,7.4,1.5,"17,000",4600,0.06
+Upper Lang Suan River,LS04,15/8/2022,1,7.5,4.4,"22,000",2100,0.06
